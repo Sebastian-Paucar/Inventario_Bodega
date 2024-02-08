@@ -21,6 +21,11 @@ npm install
 ````bash
 npm run dev
 ````
+5. Credenciales de prueba
+Usuario: gustavo@test.com
+Password: gustavo123
+
+   
 Inicia el servidor de desarrollo. Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 Tecnologías Utilizadas
 - [Vite](https://vitejs.dev/)
