@@ -6,7 +6,7 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema antes
 ## Configuración del Proyecto
 1. Clona este repositorio
 ````bash
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/Sebastian-Paucar/Inventario_Bodega
 ````
 2. Navega al directorio del proyecto
 
