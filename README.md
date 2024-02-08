@@ -1,31 +1,25 @@
-# React + TypeScript + Vite
+# Desarrollo de un Sistema de Inventario de Bodega
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objetivo: Desarrollar un sistema de inventario de bodega utilizando tecnologías de desarrollo web front-end y back-end, integrando conceptos y herramientas aprendidas durante el parcial.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requisitos Previos
 
-## Expanding the ESLint configuration
+Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema antes de comenzar.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Configuración del Proyecto
 
-- Configure the top-level `parserOptions` property like this:
+# Clona este repositorio
+[git clone https://github.com/tu-usuario/tu-proyecto.git](https://github.com/Sebastian-Paucar/Inventario_Bodega)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+# Navega al directorio del proyecto
+cd tu-proyecto
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-"# Inventario_Bodega" 
+# Instala las dependencias
+npm install
+
+# Inicia el servidor de desarrollo
+npm run dev
+
+# Construye la aplicación para producción en la carpeta `dist`
+npm run build
