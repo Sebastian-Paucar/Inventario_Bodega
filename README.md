@@ -21,12 +21,7 @@ npm install
 ````bash
 npm run dev
 ````
-5. Construye la aplicación para producción en la carpeta `dist`
-````bash
-npm run build
-````
 Inicia el servidor de desarrollo. Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
-
 Tecnologías Utilizadas
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
