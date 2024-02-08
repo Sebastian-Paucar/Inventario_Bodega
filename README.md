@@ -11,7 +11,7 @@ git clone https://github.com/Sebastian-Paucar/Inventario_Bodega
 2. Navega al directorio del proyecto
 
 ````bash
-cd tu-proyecto
+cd Inventario_Bodega
 ````
 3. Instala las dependencias
 ````bash
